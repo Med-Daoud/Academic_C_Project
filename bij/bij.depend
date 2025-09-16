@@ -1,0 +1,15 @@
+# depslib dependency file v1.0
+1734549247 source:c:\users\sonde\desktop\mohamed\bij\fonc.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	"fonc.h"
+
+1733021373 c:\users\sonde\desktop\mohamed\bij\fonc.h
+
+1733072750 source:c:\users\sonde\desktop\mohamed\bij\main.c
+	<stdio.h>
+	<stdlib.h>
+	"fonc.h"
+	<string.h>
+
